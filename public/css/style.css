@@ -1,0 +1,47 @@
+body img{
+    margin-left: 48%;
+    margin-top: 23px;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: black;
+}
+
+img{
+    width: 100px;
+}
+
+.header{
+    text-align: center;
+    margin-top: -66px;
+    
+}
+
+.header a{
+    padding: 16px;
+    text-decoration: none;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+}
+
+footer hr{
+
+    border: 1px solid darkgray;
+    border-bottom: 0px;
+}
+
+footer div{
+    color: #d1cad0;
+    text-align: center;
+}
+
+body form{
+    text-align: center;
+    margin-top: 24px;
+}
