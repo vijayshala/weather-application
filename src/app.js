@@ -47,6 +47,7 @@ app.get('/about' , (req,res)=>{
     res.send('<h1>About</h1>');
 });
 
+
 app.get('/weather' , (req,res)=>{
      if(!req.query.address) {
          res.send('you must provide address')
